@@ -82,7 +82,7 @@ def toss_coin():
     """TODO: Add your code here
         Hint: Using random.randint() function.
     """
-    coin = 'Head'
+    coin = random.randint()
     return coin
 
 
